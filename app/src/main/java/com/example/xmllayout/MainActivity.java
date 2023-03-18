@@ -10,6 +10,10 @@ import android.widget.RadioGroup;
 import android.widget.Switch;
 import android.widget.TextView;
 
+/**
+ * This activity allows the user to calculate tip based on the cost of service and the
+ * chosen radio button.
+ */
 public class MainActivity extends AppCompatActivity {
 
     private EditText costOfServiceText;
